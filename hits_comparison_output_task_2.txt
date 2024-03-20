@@ -1,0 +1,24 @@
+Total hits in file 1: 4
+Unique hits in file 1: 0
+
+Total hits in file 2: 4
+Unique hits in file 2: 0
+
+Total matched hits: 4
+Details for matched hits:
+Query ID: Query_7, Query Definition: d4ltta1 d.298.1.2 (A:1-88) automated matches {Helicobacter pylori [TaxId: 85962]}
+Hit ID: d1ofwa_, Hit Definition: a.138.1.1 (A:) Nine-heme cytochrome c {Desulfovibrio desulfuricans, ATCC 27774 [TaxId: 876]}
+Query Seq: KSFQKDFDKLLLNGFDDSVLNEVILTLRKKEPLDPQFQDH-----ALKGKWKPFRECHIKPDVLLVYLVKDDEL, Hit Seq: EQMQKGINGTLLPGDNEALAAETVLAQKTVEPVSPMLAPYKVVIDALADKYEPSNFTHRRHLTSLMERIKDDKL
+
+Query ID: Query_409, Query Definition: d1zbpa1 e.61.1.1 (A:2-265) Hypothetical protein VPA1032 {Vibrio parahaemolyticus [TaxId: 670]}
+Hit ID: d1elwa_, Hit Definition: a.118.8.1 (A:) Hop {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: ALSEGQLQQALELLIEAIKASPKDASLRSSFIELLCIDGDFERADEQLMQSIKLFPEYLPG----ASQLRHLVKAAQARKDFAQG, Hit Seq: ALSVGNIDDALQCYSEAIKLDPHNHVLYSNRSAAYAKKGDYQKAYEDGCKTVDLKPDWGKGYSRKAAALEFLNRFEEAKRTYEEG
+
+Query ID: Query_866, Query Definition: d1jgka_ g.7.1.1 (A:) Candoxin {Malayan krait (Bungarus candidus) [TaxId: 92438]}
+Hit ID: d1tuka_, Hit Definition: a.52.1.1 (A:) Non-specific lipid-transfer protein homologue (ns-LTP2) {Wheat (Triticum aestivum) [TaxId: 4565]}
+Query Seq: CRAGELKVCASGEKYCFKESWREARGTRIERGCAATCPKGSVYGLYV, Hit Seq: CQASQLAVCASAILSGAKPSGECCGNLRAQQGCFCQYAKDPTYGQYI
+
+Query ID: Query_1168, Query Definition: d1k3xa3 g.39.1.8 (A:223-262) Endonuclease VIII {Escherichia coli [TaxId: 562]}
+Hit ID: d1ffya1, Hit Definition: a.27.1.1 (A:645-917) Isoleucyl-tRNA synthetase (IleRS) {Staphylococcus aureus [TaxId: 1280]}
+Query Seq: HRDGEPCERCGSIIEKTTLSSRPFYWCPGCQ, Hit Seq: HADGEKCERCWNYSEDLGAVDELTHLCPRCQ
+

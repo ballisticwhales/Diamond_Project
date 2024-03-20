@@ -1,0 +1,128 @@
+Total hits in file 1: 4
+Unique hits in file 1: 0
+
+Total hits in file 2: 17
+Unique hits in file 2: 13
+Details for unique hits in file 2:
+Query ID: Query_7, Query Definition: d4ltta1 d.298.1.2 (A:1-88) automated matches {Helicobacter pylori [TaxId: 85962]}
+Hit ID: d1ofwa_, Hit Definition: a.138.1.1 (A:) Nine-heme cytochrome c {Desulfovibrio desulfuricans, ATCC 27774 [TaxId: 876]}
+Query Seq: KSFQKDFDKLLLNGFDDSVLNEVILTLRKKEPLDPQFQDH-----ALKGKWKPFRECHIKPDVLLVYLVKDDEL, Hit Seq: EQMQKGINGTLLPGDNEALAAETVLAQKTVEPVSPMLAPYKVVIDALADKYEPSNFTHRRHLTSLMERIKDDKL
+
+Query ID: Query_28, Query Definition: d3iam5_ d.307.1.1 (5:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+Hit ID: d2r7da2, Hit Definition: b.40.4.16 (A:3-403) Ribonuclease II family protein DR0020 {Deinococcus radiodurans [TaxId: 1299]}
+Query Seq: GLGNLWVVLPRERFKEEMAHYKAMGFNFLADIVGLDYLTYPDPRPERFAVVYELVSLPGWKDGDGSRFFVRVYVPEEDPRLPTVTDLWGSANFLEREVY-DLFGIVFEGHPDL-RKILTPEDLEGHPLRKDYPLGETPTLFREGRYIIPAEFRAALTGKDP, Hit Seq: GEGALSIDLPEVRVK--------------ADETGAS--VFPLPKPEMRTVVQECMTLAGW----GTAIFA------DDNEIPLP---FATQDYPTREVAGDTLPAMWARRKTLARTRFQPSPGPHHGMGLDLYAQATSPMRRYLDLVVHQQLRAFLAGRDP
+
+Query ID: Query_35, Query Definition: d2gs5a1 d.310.1.1 (A:1-193) Hypothetical protein DIP2367 {Corynebacterium diphtheriae [TaxId: 1717]}
+Hit ID: d1nlta2, Hit Definition: b.4.1.1 (A:258-337) Mitochondrial protein import protein mas5 (Hsp40, Ydj1), C-terminal domain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Query Seq: APGQLAQEIENGDWFVAPALPSDVTAPGSVDVWGDVMRRQPMPLPLYSTF, Hit Seq: AGGEFALEHVSGDWLKVGIVPGEVIAPGM----RKVIEGKGMPIPKYGGY
+
+Query ID: Query_76, Query Definition: d1zhxa2 d.338.1.1 (A:2-434) Oxysterol-binding protein homolog 4, KES1 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Hit ID: d1k9xa_, Hit Definition: d.92.1.5 (A:) Thermostable carboxypeptidase 1 {Pyrococcus furiosus [TaxId: 2261]}
+Query Seq: VSHHPPVTAFSIFNDKNKVKLQGYNQIKASFTKSLMLTVKQFGHTMLDIK-DESYLVTP, Hit Seq: VSAHPFTTEFGIRDVRITTRYEGYD-----FRRTILSTVHEFGHALYELQQDERFMFTP
+
+Query ID: Query_292, Query Definition: d4ahca2 e.8.1.0 (A:348-757) automated matches {Pyrococcus furiosus [TaxId: 2261]}
+Hit ID: d2hpga_, Hit Definition: c.94.1.0 (A:) automated matches {Thermotoga maritima [TaxId: 2336]}
+Query Seq: KELEEKFGFKVLYI-------------------DTDGLHATIPGGESEEIKKKAL----------EFVKYINSKLPGLLELEYEGFYKRGFFVTKKRYAVIDEEGKVITRGLEIVRRDWSEIAKETQARVLETILKHGDVEEAVRIVKE, Hit Seq: KELEQRFGIKVLSFYWVQGYRHFVTNKPIRKPEDLNGLRIRTPGAPAWQESIRSLGAIPVAVNFGEIYTAVQTRAVDGAELTYANVYNGGLYEVLK---YMSETGHFLLINFEIVSADWFNSLPKEYQKIIEEEMDKAGIEVSLKIMKE
+
+Query ID: Query_318, Query Definition: d3iam6_ e.19.1.2 (6:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+Hit ID: d1t6na_, Hit Definition: c.37.1.19 (A:) Spliceosome RNA helicase BAT1 (UAP56) {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: EMMASTDARNDLARFGSEVFRASPRQADVMIVAGRLSKKMAPVMRRVWEQMPDP, Hit Seq: KMLEQLDMRRDV----QEIFRMTPHEKQVMMFSATLSKEIRPVCRKF---MQDP
+
+Query ID: Query_390, Query Definition: d2ffja1 e.50.1.1 (A:7-288) Hypothetical protein AF1104 {Archaeoglobus fulgidus [TaxId: 2234]}
+Hit ID: d4hzia_, Hit Definition: c.37.1.0 (A:) automated matches {Leptospira interrogans [TaxId: 267671]}
+Query Seq: VRGRPIISDATIEDARLARVDKIADELLTNGKGAIGIIMDELPDETRKALE---EADLIVAKGMANYECLSDGSLKPIAFLLTAKCEP, Hit Seq: LRKRIGILDSSQQENSIQRKLTVKDTILTGLFHTIGYYRDPSPEEETKTLQILKDSDLLSKKDQL-YNTLSSGEKKKILFLRSIVNEP
+
+Query ID: Query_391, Query Definition: d2q40a_ e.50.1.1 (A:) Hypothetical protein At2g17340 {Thale cress (Arabidopsis thaliana) [TaxId: 3702]}
+Hit ID: d1ijba_, Hit Definition: c.62.1.1 (A:) von Willebrand factor A1 domain, vWA1 {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: VFSRDGMSFLASCQNLVPRPWVIDDLENFQAKWINKSWKKAVIFVDNSGADIILGILPFAR--ELLRRGAQVVLAANELPSINDITCTELTEILSQL, Hit Seq: VFLLDGSSRLSEAEFEVLKAFVVDMMERLR---VSQKWVRVAVVEYHDGSHAYIGLKDRKRPSELRRIASQVKYAGSQVASTSEVLKYTLFQIFSKI
+
+Query ID: Query_506, Query Definition: d1uuna_ f.6.1.2 (A:) Porin MspA {Mycobacterium smegmatis [TaxId: 1772]}
+Hit ID: d2l2fa_, Hit Definition: b.89.1.0 (A:) automated matches {Fusarium graminearum (Gibberella zeae) [TaxId: 5518]}
+Query Seq: WFHSGRAKYIVAGPGADEF-EGTLELGYQIG-----FPWSLGVGINFSYTTPNILID-DGDITRPPFG--LNSVITPNLFPGVSISADLGN, Hit Seq: WLEDGHILHAECGNGEGDYVESTLDLDYYIGNDDGSFSWG---GENFSGSASNITLDIEGDDNIPVLRAELNPMDGDPVEANVNLSERIGN
+
+Query ID: Query_866, Query Definition: d1jgka_ g.7.1.1 (A:) Candoxin {Malayan krait (Bungarus candidus) [TaxId: 92438]}
+Hit ID: d1tuka_, Hit Definition: a.52.1.1 (A:) Non-specific lipid-transfer protein homologue (ns-LTP2) {Wheat (Triticum aestivum) [TaxId: 4565]}
+Query Seq: CRAGELKVCASGEKYCFKESWREARGTRIERGCAATCPKGSVYGLYV, Hit Seq: CQASQLAVCASAILSGAKPSGECCGNLRAQQGCFCQYAKDPTYGQYI
+
+Query ID: Query_958, Query Definition: d1g40a1 g.18.1.1 (A:1-64) Complement control protein {Vaccinia virus [TaxId: 10245]}
+Hit ID: d4ew1a1, Hit Definition: c.65.1.1 (A:3-203) Glycinamide ribonucleotide transformylase, GART {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: IPSRPINMK-FKNSVETDANANYNIGD-TIEYLCLPGYRKQKMGPIYAKCTG, Hit Seq: IPTRVINHKLYKNRVEFDSAIDLVLEEFSIDIVCLAGFMRILSGPFVQKWNG
+
+Query ID: Query_1366, Query Definition: d1lr7a2 g.68.1.1 (A:89-136) Domain of follistatin {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+Hit ID: d1ogqa_, Hit Definition: c.10.2.8 (A:) Polygalacturonase inhibiting protein PGIP {French bean (Phaseolus vulgaris) [TaxId: 3885]}
+Query Seq: DCSNITWKGPVCGLDGKTYR, Hit Seq: DCCNRTWLGVLCDTDTQTYR
+
+Query ID: Query_1419, Query Definition: d3pt6a1 g.95.1.1 (A:651-700) Zn finger domain from DNA methyltransferase 1 (DNMT1) {Mouse (Mus musculus) [TaxId: 10090]}
+Hit ID: d1c9fa_, Hit Definition: d.15.2.1 (A:) Caspase-activated DNase (CAD), DFF40, N-terminal domain {Mouse (Mus musculus) [TaxId: 10090]}
+Query Seq: VCEVCQQPECGKCKACKDMVKFGGTGRSKQACLKRRC, Hit Seq: MCAVLRQPKCVKLRALHSACKFGVAARSCQELLRKGC
+
+Total matched hits: 17
+Details for matched hits:
+Query ID: Query_1, Query Definition: d3dgpb_ d.295.1.0 (B:) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Hit ID: d1ydla1, Hit Definition: d.295.1.1 (A:6-71) General transcription factor IIH polypeptide 5, TFB5 {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: KGALVQCDPSIKALILQID---AKMSDIVLEELDDTHLLVNPSKVEFVKHELNRLLSKNIYN, Hit Seq: KGMLIECDPAMKQFLLYLDESNALGKKFIIQDIDDTHVFVIAELVNVLQERVGELMDQNAFS
+
+Query ID: Query_409, Query Definition: d1zbpa1 e.61.1.1 (A:2-265) Hypothetical protein VPA1032 {Vibrio parahaemolyticus [TaxId: 670]}
+Hit ID: d1elwa_, Hit Definition: a.118.8.1 (A:) Hop {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: ALSEGQLQQALELLIEAIKASPKDASLRSSFIELLCIDGDFERADEQLMQSIKLFPEYLPG----ASQLRHLVKAAQARKDFAQG, Hit Seq: ALSVGNIDDALQCYSEAIKLDPHNHVLYSNRSAAYAKKGDYQKAYEDGCKTVDLKPDWGKGYSRKAAALEFLNRFEEAKRTYEEG
+
+Query ID: Query_1097, Query Definition: d1m36a1 g.37.1.2 (A:3-33) Monocytic leukemia zinc finger protein Moz {Human (Homo sapiens) [TaxId: 9606]}
+Hit ID: d2pq8a_, Hit Definition: d.108.1.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: PKLYLCEFCLKYMKSRTILQQHMKKCGW, Hit Seq: PKLWLCEYCLKYMKYEKSYRFHLGQCQW
+
+Query ID: Query_1168, Query Definition: d1k3xa3 g.39.1.8 (A:223-262) Endonuclease VIII {Escherichia coli [TaxId: 562]}
+Hit ID: d1ffya1, Hit Definition: a.27.1.1 (A:645-917) Isoleucyl-tRNA synthetase (IleRS) {Staphylococcus aureus [TaxId: 1280]}
+Query Seq: HRDGEPCERCGSIIEKTTLSSRPFYWCPGCQ, Hit Seq: HADGEKCERCWNYSEDLGAVDELTHLCPRCQ
+
+Query ID: Query_7, Query Definition: d4ltta1 d.298.1.2 (A:1-88) automated matches {Helicobacter pylori [TaxId: 85962]}
+Hit ID: d1ofwa_, Hit Definition: a.138.1.1 (A:) Nine-heme cytochrome c {Desulfovibrio desulfuricans, ATCC 27774 [TaxId: 876]}
+Query Seq: KSFQKDFDKLLLNGFDDSVLNEVILTLRKKEPLDPQFQDH-----ALKGKWKPFRECHIKPDVLLVYLVKDDEL, Hit Seq: EQMQKGINGTLLPGDNEALAAETVLAQKTVEPVSPMLAPYKVVIDALADKYEPSNFTHRRHLTSLMERIKDDKL
+
+Query ID: Query_28, Query Definition: d3iam5_ d.307.1.1 (5:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+Hit ID: d2r7da2, Hit Definition: b.40.4.16 (A:3-403) Ribonuclease II family protein DR0020 {Deinococcus radiodurans [TaxId: 1299]}
+Query Seq: GLGNLWVVLPRERFKEEMAHYKAMGFNFLADIVGLDYLTYPDPRPERFAVVYELVSLPGWKDGDGSRFFVRVYVPEEDPRLPTVTDLWGSANFLEREVY-DLFGIVFEGHPDL-RKILTPEDLEGHPLRKDYPLGETPTLFREGRYIIPAEFRAALTGKDP, Hit Seq: GEGALSIDLPEVRVK--------------ADETGAS--VFPLPKPEMRTVVQECMTLAGW----GTAIFA------DDNEIPLP---FATQDYPTREVAGDTLPAMWARRKTLARTRFQPSPGPHHGMGLDLYAQATSPMRRYLDLVVHQQLRAFLAGRDP
+
+Query ID: Query_35, Query Definition: d2gs5a1 d.310.1.1 (A:1-193) Hypothetical protein DIP2367 {Corynebacterium diphtheriae [TaxId: 1717]}
+Hit ID: d1nlta2, Hit Definition: b.4.1.1 (A:258-337) Mitochondrial protein import protein mas5 (Hsp40, Ydj1), C-terminal domain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Query Seq: APGQLAQEIENGDWFVAPALPSDVTAPGSVDVWGDVMRRQPMPLPLYSTF, Hit Seq: AGGEFALEHVSGDWLKVGIVPGEVIAPGM----RKVIEGKGMPIPKYGGY
+
+Query ID: Query_76, Query Definition: d1zhxa2 d.338.1.1 (A:2-434) Oxysterol-binding protein homolog 4, KES1 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Hit ID: d1k9xa_, Hit Definition: d.92.1.5 (A:) Thermostable carboxypeptidase 1 {Pyrococcus furiosus [TaxId: 2261]}
+Query Seq: VSHHPPVTAFSIFNDKNKVKLQGYNQIKASFTKSLMLTVKQFGHTMLDIK-DESYLVTP, Hit Seq: VSAHPFTTEFGIRDVRITTRYEGYD-----FRRTILSTVHEFGHALYELQQDERFMFTP
+
+Query ID: Query_292, Query Definition: d4ahca2 e.8.1.0 (A:348-757) automated matches {Pyrococcus furiosus [TaxId: 2261]}
+Hit ID: d2hpga_, Hit Definition: c.94.1.0 (A:) automated matches {Thermotoga maritima [TaxId: 2336]}
+Query Seq: KELEEKFGFKVLYI-------------------DTDGLHATIPGGESEEIKKKAL----------EFVKYINSKLPGLLELEYEGFYKRGFFVTKKRYAVIDEEGKVITRGLEIVRRDWSEIAKETQARVLETILKHGDVEEAVRIVKE, Hit Seq: KELEQRFGIKVLSFYWVQGYRHFVTNKPIRKPEDLNGLRIRTPGAPAWQESIRSLGAIPVAVNFGEIYTAVQTRAVDGAELTYANVYNGGLYEVLK---YMSETGHFLLINFEIVSADWFNSLPKEYQKIIEEEMDKAGIEVSLKIMKE
+
+Query ID: Query_318, Query Definition: d3iam6_ e.19.1.2 (6:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+Hit ID: d1t6na_, Hit Definition: c.37.1.19 (A:) Spliceosome RNA helicase BAT1 (UAP56) {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: EMMASTDARNDLARFGSEVFRASPRQADVMIVAGRLSKKMAPVMRRVWEQMPDP, Hit Seq: KMLEQLDMRRDV----QEIFRMTPHEKQVMMFSATLSKEIRPVCRKF---MQDP
+
+Query ID: Query_390, Query Definition: d2ffja1 e.50.1.1 (A:7-288) Hypothetical protein AF1104 {Archaeoglobus fulgidus [TaxId: 2234]}
+Hit ID: d4hzia_, Hit Definition: c.37.1.0 (A:) automated matches {Leptospira interrogans [TaxId: 267671]}
+Query Seq: VRGRPIISDATIEDARLARVDKIADELLTNGKGAIGIIMDELPDETRKALE---EADLIVAKGMANYECLSDGSLKPIAFLLTAKCEP, Hit Seq: LRKRIGILDSSQQENSIQRKLTVKDTILTGLFHTIGYYRDPSPEEETKTLQILKDSDLLSKKDQL-YNTLSSGEKKKILFLRSIVNEP
+
+Query ID: Query_391, Query Definition: d2q40a_ e.50.1.1 (A:) Hypothetical protein At2g17340 {Thale cress (Arabidopsis thaliana) [TaxId: 3702]}
+Hit ID: d1ijba_, Hit Definition: c.62.1.1 (A:) von Willebrand factor A1 domain, vWA1 {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: VFSRDGMSFLASCQNLVPRPWVIDDLENFQAKWINKSWKKAVIFVDNSGADIILGILPFAR--ELLRRGAQVVLAANELPSINDITCTELTEILSQL, Hit Seq: VFLLDGSSRLSEAEFEVLKAFVVDMMERLR---VSQKWVRVAVVEYHDGSHAYIGLKDRKRPSELRRIASQVKYAGSQVASTSEVLKYTLFQIFSKI
+
+Query ID: Query_506, Query Definition: d1uuna_ f.6.1.2 (A:) Porin MspA {Mycobacterium smegmatis [TaxId: 1772]}
+Hit ID: d2l2fa_, Hit Definition: b.89.1.0 (A:) automated matches {Fusarium graminearum (Gibberella zeae) [TaxId: 5518]}
+Query Seq: WFHSGRAKYIVAGPGADEF-EGTLELGYQIG-----FPWSLGVGINFSYTTPNILID-DGDITRPPFG--LNSVITPNLFPGVSISADLGN, Hit Seq: WLEDGHILHAECGNGEGDYVESTLDLDYYIGNDDGSFSWG---GENFSGSASNITLDIEGDDNIPVLRAELNPMDGDPVEANVNLSERIGN
+
+Query ID: Query_866, Query Definition: d1jgka_ g.7.1.1 (A:) Candoxin {Malayan krait (Bungarus candidus) [TaxId: 92438]}
+Hit ID: d1tuka_, Hit Definition: a.52.1.1 (A:) Non-specific lipid-transfer protein homologue (ns-LTP2) {Wheat (Triticum aestivum) [TaxId: 4565]}
+Query Seq: CRAGELKVCASGEKYCFKESWREARGTRIERGCAATCPKGSVYGLYV, Hit Seq: CQASQLAVCASAILSGAKPSGECCGNLRAQQGCFCQYAKDPTYGQYI
+
+Query ID: Query_958, Query Definition: d1g40a1 g.18.1.1 (A:1-64) Complement control protein {Vaccinia virus [TaxId: 10245]}
+Hit ID: d4ew1a1, Hit Definition: c.65.1.1 (A:3-203) Glycinamide ribonucleotide transformylase, GART {Human (Homo sapiens) [TaxId: 9606]}
+Query Seq: IPSRPINMK-FKNSVETDANANYNIGD-TIEYLCLPGYRKQKMGPIYAKCTG, Hit Seq: IPTRVINHKLYKNRVEFDSAIDLVLEEFSIDIVCLAGFMRILSGPFVQKWNG
+
+Query ID: Query_1366, Query Definition: d1lr7a2 g.68.1.1 (A:89-136) Domain of follistatin {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+Hit ID: d1ogqa_, Hit Definition: c.10.2.8 (A:) Polygalacturonase inhibiting protein PGIP {French bean (Phaseolus vulgaris) [TaxId: 3885]}
+Query Seq: DCSNITWKGPVCGLDGKTYR, Hit Seq: DCCNRTWLGVLCDTDTQTYR
+
+Query ID: Query_1419, Query Definition: d3pt6a1 g.95.1.1 (A:651-700) Zn finger domain from DNA methyltransferase 1 (DNMT1) {Mouse (Mus musculus) [TaxId: 10090]}
+Hit ID: d1c9fa_, Hit Definition: d.15.2.1 (A:) Caspase-activated DNase (CAD), DFF40, N-terminal domain {Mouse (Mus musculus) [TaxId: 10090]}
+Query Seq: VCEVCQQPECGKCKACKDMVKFGGTGRSKQACLKRRC, Hit Seq: MCAVLRQPKCVKLRALHSACKFGVAARSCQELLRKGC
+
