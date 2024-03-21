@@ -1,0 +1,2 @@
+diamond_project/batch_1.dmnd: 2.91640305519104 seconds
+diamond_project/batch_2.dmnd: 3.384342908859253 seconds
