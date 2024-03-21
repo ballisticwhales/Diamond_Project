@@ -37,7 +37,7 @@ Query ID: Query_1097, Query Definition: d1m36a1 g.37.1.2 (A:3-33) Monocytic leuk
 Hit ID: d2pq8a_, Hit Definition: d.108.1.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
 Query Seq: PKLYLCEFCLKYMKSRTILQQHMKKCGW, Hit Seq: PKLWLCEYCLKYMKYEKSYRFHLGQCQW
 
-Total matched hits: 8
+Total matched hits: 5
 Details for matched hits:
 Query ID: Query_866, Query Definition: d1jgka_ g.7.1.1 (A:) Candoxin {Malayan krait (Bungarus candidus) [TaxId: 92438]}
 Hit ID: d1tuka_, Hit Definition: a.52.1.1 (A:) Non-specific lipid-transfer protein homologue (ns-LTP2) {Wheat (Triticum aestivum) [TaxId: 4565]}
@@ -58,16 +58,3 @@ Query Seq: ALSEGQLQQALELLIEAIKASPKDASLRSSFIELLCIDGDFERADEQLMQSIKLFPEYLPG----ASQL
 Query ID: Query_506, Query Definition: d1uuna_ f.6.1.2 (A:) Porin MspA {Mycobacterium smegmatis [TaxId: 1772]}
 Hit ID: d2l2fa_, Hit Definition: b.89.1.0 (A:) automated matches {Fusarium graminearum (Gibberella zeae) [TaxId: 5518]}
 Query Seq: WFHSGRAKYIVAGPGADEF-EGTLELGYQIG-----FPWSLGVGINFSYTTPNILID-DGDITRPPFG--LNSVITPNLFPGVSISADLGN, Hit Seq: WLEDGHILHAECGNGEGDYVESTLDLDYYIGNDDGSFSWG---GENFSGSASNITLDIEGDDNIPVLRAELNPMDGDPVEANVNLSERIGN
-
-Query ID: Query_1419, Query Definition: d3pt6a1 g.95.1.1 (A:651-700) Zn finger domain from DNA methyltransferase 1 (DNMT1) {Mouse (Mus musculus) [TaxId: 10090]}
-Hit ID: d1c9fa_, Hit Definition: d.15.2.1 (A:) Caspase-activated DNase (CAD), DFF40, N-terminal domain {Mouse (Mus musculus) [TaxId: 10090]}
-Query Seq: VCEVCQQPECGKCKACKDMVKFGGTGRSKQACLKRRC, Hit Seq: MCAVLRQPKCVKLRALHSACKFGVAARSCQELLRKGC
-
-Query ID: Query_1, Query Definition: d3dgpb_ d.295.1.0 (B:) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
-Hit ID: d1ydla1, Hit Definition: d.295.1.1 (A:6-71) General transcription factor IIH polypeptide 5, TFB5 {Human (Homo sapiens) [TaxId: 9606]}
-Query Seq: KGALVQCDPSIKALILQID---AKMSDIVLEELDDTHLLVNPSKVEFVKHELNRLLSKNIYN, Hit Seq: KGMLIECDPAMKQFLLYLDESNALGKKFIIQDIDDTHVFVIAELVNVLQERVGELMDQNAFS
-
-Query ID: Query_1097, Query Definition: d1m36a1 g.37.1.2 (A:3-33) Monocytic leukemia zinc finger protein Moz {Human (Homo sapiens) [TaxId: 9606]}
-Hit ID: d2pq8a_, Hit Definition: d.108.1.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
-Query Seq: PKLYLCEFCLKYMKSRTILQQHMKKCGW, Hit Seq: PKLWLCEYCLKYMKYEKSYRFHLGQCQW
-
